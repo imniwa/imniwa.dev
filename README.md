@@ -5,6 +5,7 @@ Personal Web Blog
 TO DO :
 - [ ] Create Home Page
 - [ ] Create About Page
+- [ ] Create Portfolio List Page
 - [ ] Create Blog Page List
 - [ ] Create Blog Page Detail
 - [ ] Add SEO System
